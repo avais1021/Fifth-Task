@@ -242,8 +242,8 @@
 
   .call {
     background: #03746f;
-    width: 75%;
-    padding-bottom: 380px;
+    width: 80%;
+    padding-bottom: 391px;
     padding-top: 525px;
     padding-left: 5%;
   }
@@ -509,4 +509,10 @@
     font-size: 0.7rem;
 
   }
+}
+
+@media screen and (max-width:370.9px){
+  .headig-form {
+    font-size: 30px;
+}
 }
